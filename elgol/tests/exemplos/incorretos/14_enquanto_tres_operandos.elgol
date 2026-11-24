@@ -1,0 +1,6 @@
+* ERRO SINTATICO linha 3: expressao logica so tem dois operandos
+inicio.
+    enquanto Teste maior _Z_ igual Lixo.
+    inicio.
+    fim.
+fim.

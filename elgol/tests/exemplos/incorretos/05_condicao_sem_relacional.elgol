@@ -1,0 +1,10 @@
+* ERRO SINTATICO linha 3: a condicao precisa de operador relacional e dois operandos
+inicio.
+    se Valor.
+    entao.
+    inicio.
+    fim.
+    senao.
+    inicio.
+    fim.
+fim.

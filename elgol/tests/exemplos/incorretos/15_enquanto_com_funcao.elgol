@@ -1,0 +1,6 @@
+* ERRO SINTATICO linha 3: funcao nao pode ser operando da expressao logica
+inicio.
+    enquanto Teste maior $Soma(20, 30).
+    inicio.
+    fim.
+fim.

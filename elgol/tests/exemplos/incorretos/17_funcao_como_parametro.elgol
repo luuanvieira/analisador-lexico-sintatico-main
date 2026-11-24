@@ -1,0 +1,4 @@
+* ERRO SINTATICO linha 3: funcao nao pode ser parametro de outra funcao
+inicio.
+    Total = $Somar($Dobro(Valor), 1).
+fim.

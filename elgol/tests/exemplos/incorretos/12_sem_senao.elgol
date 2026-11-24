@@ -1,0 +1,9 @@
+* ERRO SINTATICO linha 8: faltou o senao (obrigatorio)
+inicio.
+    se Valor maior 5.
+    entao.
+    inicio.
+        Valor = 1.
+    fim.
+    Valor = 2.
+fim.

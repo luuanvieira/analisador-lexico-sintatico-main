@@ -1,0 +1,4 @@
+* ERRO SINTATICO linha 2: inicio deve ser seguido de "."
+inicio
+    Valor = 1.
+fim.

@@ -1,0 +1,6 @@
+* ERRO SINTATICO: o bloco do enquanto nao foi fechado (arquivo termina antes)
+inicio.
+    enquanto Valor maior 5.
+    inicio.
+        Valor = 1.
+fim.

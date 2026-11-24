@@ -1,0 +1,4 @@
+* ERRO SINTATICO linha 3: atribuicao so aceita expressao matematica
+inicio.
+    Variavel = Teste igual Lixo.
+fim.

@@ -1,0 +1,9 @@
+* ERRO SINTATICO linha 4: falta "entao." depois da condicao do se
+inicio.
+    se Valor maior 1.
+    inicio.
+    fim.
+    senao.
+    inicio.
+    fim.
+fim.

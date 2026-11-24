@@ -1,0 +1,12 @@
+* Atribuicoes e expressoes (sem precedencia, da esquerda para a direita)
+inicio.
+    DECIMAL Lixo.
+    DECIMAL Breca.
+    DECIMAL Bare.
+    Lixo = _Z_.
+    _NEG_ Breca.
+    Bare = Lixo + Breca x _Z_ - 45 / 5.
+    Lixo = Bare EXP 3.
+    Teste = Bare + Breca x 45 + $Soma(30,40).
+    Negado = _NEG_ 5 + Lixo RESTO 3.
+fim.

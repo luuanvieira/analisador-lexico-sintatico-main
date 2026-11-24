@@ -1,0 +1,6 @@
+* ERRO SINTATICO linha 3: para exige contador e limite
+inicio.
+    para Contar.
+    inicio.
+    fim.
+fim.

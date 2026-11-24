@@ -1,0 +1,27 @@
+* se / entao / senao (senao obrigatorio, pode ser vazio), inclusive aninhado
+inicio.
+    se Teste maior Lixo.
+    entao.
+    inicio.
+        Teste = 45 x Lixo.
+    fim.
+    senao.
+    inicio.
+    fim.
+    se Nota menor 5.
+    entao.
+    inicio.
+        se Nota igual _Z_.
+        entao.
+        inicio.
+        fim.
+        senao.
+        inicio.
+            Nota = 1.
+        fim.
+    fim.
+    senao.
+    inicio.
+        Nota = 10.
+    fim.
+fim.

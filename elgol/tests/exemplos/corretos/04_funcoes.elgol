@@ -1,0 +1,20 @@
+* Definicao de funcoes, elgio e chamadas como operando
+DECIMAL $Soma (DECIMAL Numm, DECIMAL Dois) .
+inicio .
+    elgio = Numm + Dois .
+fim.
+
+DECIMAL $Fazalgo (DECIMAL Numm, DECIMAL Dois).
+inicio.
+    DECIMAL Temp.
+    Temp = 20 x $Soma(Numm, Dois).
+    elgio = Temp.
+fim.
+
+DECIMAL $Nada (DECIMAL Numm).
+inicio.
+fim.
+
+inicio.
+    Valor = $Fazalgo(Valor, _Z_) + $Soma(1, 2).
+fim.

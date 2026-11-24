@@ -1,0 +1,7 @@
+* ERRO SINTATICO linha 4: elgio nao aceita funcao como operando
+DECIMAL $Fazalgo (DECIMAL Numm, DECIMAL Dois).
+inicio.
+    elgio = 20 x $Soma(Numm, Dois).
+fim.
+inicio.
+fim.

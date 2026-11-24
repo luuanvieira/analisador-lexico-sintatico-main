@@ -1,0 +1,6 @@
+* ERRO SINTATICO linha 3: expressao logica nao aceita operador matematico
+inicio.
+    enquanto 30 x 40.
+    inicio.
+    fim.
+fim.

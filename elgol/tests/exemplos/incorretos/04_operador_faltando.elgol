@@ -1,0 +1,4 @@
+* ERRO SINTATICO linha 3: operador x precisa de 2 operandos
+inicio.
+    Lixo = Fazum - Fazdois + _Z_ x.
+fim.

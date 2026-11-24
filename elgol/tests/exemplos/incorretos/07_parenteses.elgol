@@ -1,0 +1,4 @@
+* ERRO SINTATICO linha 3: parenteses so existem em chamada de funcao, nao para agrupar
+inicio.
+    Valor = (Base + 2) x Tamanho.
+fim.

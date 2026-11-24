@@ -1,0 +1,4 @@
+* ERRO SINTATICO linha 3: funcao nao pode receber o resultado de uma expressao
+inicio.
+    $Soma = 10.
+fim.

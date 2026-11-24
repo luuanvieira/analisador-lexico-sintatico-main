@@ -1,0 +1,29 @@
+* Programa valido cobrindo toda a sintaxe do Elgol
+DECIMAL $Soma (DECIMAL Numm, DECIMAL Dois) .
+inicio .
+    elgio = Numm + Dois .
+fim .
+
+inicio .
+    DECIMAL Resultado .
+    DECIMAL Contador .
+    Resultado = $Soma(30, 40) x 2 .
+    Contador = _Z_ .
+    _NEG_ Resultado .
+    se Resultado maior Contador .
+    entao .
+    inicio .
+        Resultado = Resultado - 1 .
+    fim .
+    senao .
+    inicio .
+    fim .
+    enquanto Contador menor 10 .
+    inicio .
+        Contador = Contador + 1 .
+    fim .
+    para Contar Contador .
+    inicio .
+        Resultado = Resultado EXP 2 RESTO 7 .
+    fim .
+fim .

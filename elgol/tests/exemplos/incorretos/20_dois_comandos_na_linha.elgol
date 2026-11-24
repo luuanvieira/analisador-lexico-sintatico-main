@@ -1,0 +1,4 @@
+* ERRO SINTATICO linha 3: um unico comando por linha
+inicio.
+    Valor = 1. Novo = 2.
+fim.

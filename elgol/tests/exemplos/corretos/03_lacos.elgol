@@ -1,0 +1,25 @@
+* enquanto e para
+inicio.
+    DECIMAL Limite.
+    Limite = 30.
+    enquanto Teste maior _Z_.
+    inicio.
+        Teste = Teste - 1.
+    fim.
+    enquanto Teste diferente Limite.
+    inicio.
+    fim.
+    para Contar 100.
+    inicio.
+        Soma = Soma + 1.
+    fim.
+    para Contar Limite.
+    inicio.
+    fim.
+    enquanto Valor migual 10.
+    inicio.
+    fim.
+    enquanto Valor MIgual 10.
+    inicio.
+    fim.
+fim.
